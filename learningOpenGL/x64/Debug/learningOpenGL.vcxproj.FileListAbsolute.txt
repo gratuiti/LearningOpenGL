@@ -1,0 +1,6 @@
+C:\Users\Panapoo\Desktop\learningOpenGL\learningOpenGL\x64\Debug\learningOpenGL.vcxproj.MdMergeInputs.cache
+C:\Users\Panapoo\Desktop\learningOpenGL\learningOpenGL\x64\Debug\learningOpenGL.vcxproj.cppwinrt_plat.cache
+C:\Users\Panapoo\Desktop\learningOpenGL\learningOpenGL\x64\Debug\learningOpenGL.vcxproj.cppwinrt_comp.cache
+C:\Users\Administrator\Desktop\learningOpenGL123\learningOpenGL\x64\Debug\learningOpenGL.vcxproj.MdMergeInputs.cache
+C:\Users\Administrator\Desktop\learningOpenGL123\learningOpenGL\x64\Debug\learningOpenGL.vcxproj.cppwinrt_plat.cache
+C:\Users\Administrator\Desktop\learningOpenGL123\learningOpenGL\x64\Debug\learningOpenGL.vcxproj.cppwinrt_comp.cache
