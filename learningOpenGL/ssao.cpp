@@ -87,10 +87,10 @@ int main()
     glEnable(GL_DEPTH_TEST);
 
 
-    Shader shaderGeometryPass("9.ssao_geometry.vs", "9.ssao_geometry.fs");
-    Shader shaderLightingPass("9.ssao.vs", "9.ssao_lighting.fs");
-    Shader shaderSSAO("9.ssao.vs", "9.ssao.fs");
-    Shader shaderSSAOBlur("9.ssao.vs", "9.ssao_blur.fs");
+    Shader shaderGeometryPass("ssao_geometry.vs", "ssao_geometry.fs");
+    Shader shaderLightingPass("ssao.vs", "ssao_lighting.fs");
+    Shader shaderSSAO("ssao.vs", "ssao.fs");
+    Shader shaderSSAOBlur("ssao.vs", "ssao_blur.fs");
 
     //Model ourModel("assets/nanosuit_reflection/nanosuit.obj");
     Model backpack("assets/backpack/backpack.obj");

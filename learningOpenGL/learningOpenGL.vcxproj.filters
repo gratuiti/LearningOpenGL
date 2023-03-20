@@ -63,6 +63,15 @@
     <ClCompile Include="shadow.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ssao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="csm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ibm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shader.h">
@@ -219,6 +228,78 @@
       <Filter>头文件\shader</Filter>
     </None>
     <None Include="shadow_mapping_depth.gs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="ssao.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="ssao.vs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="ssao_blur.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="ssao_geometry.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="ssao_geometry.vs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="ssao_lighting.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="background.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="background.vs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="brdf.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="brdf.vs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="cubemap.vs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="equirectangular_to_cubemap.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="irradiance_convolution.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="pbr.vs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="pbr.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="prefilter.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="debug_cascade.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="debug_cascade.vs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="debug_quad.vs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="debug_quad_depth.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="csm_shadow_mapping.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="csm_shadow_mapping_depth.fs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="csm_shadow_mapping_depth.gs">
+      <Filter>头文件\shader</Filter>
+    </None>
+    <None Include="csm_shadow_mapping_depth.vs">
       <Filter>头文件\shader</Filter>
     </None>
   </ItemGroup>
